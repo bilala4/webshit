@@ -1,0 +1,36 @@
+body{
+background-color: chartreuse;
+padding-bottom: 50pc;
+}
+#sun{
+margin: 100px auto 0px 85px;
+height: 120px;
+}
+
+#welcome{
+color: #00ace6;
+font-weight: 600;
+font-size: 50px;
+text-align: center;
+margin:auto auto 20px auto;
+
+}
+#introdution{
+color: #0000CD;
+
+}
+#te{
+margin-left: 100px;
+font-size: 30px;
+display: block;
+}
+
+#fly{
+display: block;
+float: right;
+}
+#house{
+padding-top: 900px;
+margin-left: 500px;
+height: 500px;
+}

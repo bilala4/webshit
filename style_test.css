@@ -1,0 +1,20 @@
+body{
+background-color: black;
+margin-top: 90px;
+}
+
+#entry{
+margin-left: 560px;
+font-weight: 200;
+color:#AFEEEE; 
+}
+
+#entry2{
+color:#AFEEEE; 
+margin-left: 970px;
+font-weight: 200;
+}
+#moon{
+margin: 30px auto 20px 710px;
+height: 520px;
+}
